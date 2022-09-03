@@ -15,5 +15,5 @@ cd upgradingPortainer
 3. Run script
 
 ```
-./updatePortainer.sh
+./upgradingPortainer.sh
 ```
